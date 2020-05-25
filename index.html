@@ -5,22 +5,46 @@
 <title>All about lego!</title>
 <style>
 body{
-background-color:rgba(228, 225, 241,1);
+background-color:rgb(228, 225, 241);
+margin: 40px 0px 40px 0px;
+border:10px groove rgb(0,255,68);
+padding:20px;
 }
-
+.j{
+background-color:rgb(255,0,0);
+font-weight:bold;
+}
+.table-of{
+background-color:rgb(0,255,255);
+}
+.pic{
+background-color:yellow;
+}
+#pic-id{
+border:10px ridge rgb(255,0,255);
+}
+#link-brick{
+background-color:black;
+border:15px dotted rgb(255,127,64);
+}
+#lego-1000-id{
+border:15px dashed rgb(64,127,255);
+background-color:white;
+}
 </style>
 </head>
 <body>
-<h1 id="0">table of contents</h1>
-<h3>(click where you want to go)</h3>
-<a href="#1">A picture of lego</a><br>
-<a href="#2">Some cool facts about lego</a><br>
-<a href="#3"> A link to lego.com</a><br>
-<a href="#4"> info about lego sets I've made with over 1,000 pieces</a><br>
-<h2 id="1">A picture of lego: </h2>
-<img src="https://i.ytimg.com/vi/RLmqKBRqyA8/maxresdefault.jpg" width="400">
-<h3 id="2">Some cool facts about lego</h3>
-<ol>
+<h1 class="table-of">Table of contents</h1>
+<h3 class="table-of">(click where you want to go)</h3>
+<a href="#pic" class="table-of">A picture of lego</a><br>
+<a href="#cool-facts" class="table-of">Some cool facts about lego</a><br>
+<a href="#link-lego.com" class="table-of"> A link to lego.com</a><br>
+<a href="#lego-1000-piece" class="table-of"> info about lego sets I've made with over 1,000 pieces</a><br>
+<h2 class="pic">A picture of lego: </h2>
+<div class="pic" id="pic-id">
+<img src="https://i.ytimg.com/vi/RLmqKBRqyA8/maxresdefault.jpg" width="650"></div>
+<h3 class="j" id="cool-facts">Some cool facts about lego</h3>
+<ol class="j">
 <li>The total number of minifigures produced could fill about 170 standard-sized swimming pools!</li>
 <li>About 12 minifigures are produced every second!</li>
 <li> You can combine six of the eight-studded LEGO bricks in 915,103,765 ways!</li>
@@ -30,13 +54,13 @@ background-color:rgba(228, 225, 241,1);
 <li> If all the Lego bricks in the world were stacked on top of one another, they would create a structure nearly 2.4 million miles tall, which is 10 times the distance to the moon!</li>
 <li>The amount of Lego bricks sold in just one year could wrap around the Earth five times.</li>
 <li>Around the world, seven Lego sets are sold every second. That’s more than 600,000 every day!</li>
-</ol> 
+</ol></div>
 
-<h2 id="3">A link to lego.com:</h2>
-<a href="https://www.lego.com/en-us"><img src="https://img.brickowl.com/files/image_cache/larger/lego-red-brick-2-x-4-3001-30-771344-81.jpg" width="250"></a> 
+<h2 id="link-lego.com">A link to lego.com:</h2>
+<div id="link-brick"><a href="https://www.lego.com/en-us"><img src="https://img.brickowl.com/files/image_cache/larger/lego-red-brick-2-x-4-3001-30-771344-81.jpg" width="250"></a> </div>
 <h3>(click on the red lego brick for the link)
 
-<h3 id="4">here are 2 of the over 1,000 pieces sets I've made:</h3>
+<div id="lego-1000-id"><h3 id="lego-1000-piece">Here are all of the over 1,000 pieces sets I've made:</h3>
 
 <table>
             <thead>
@@ -69,10 +93,16 @@ background-color:rgba(228, 225, 241,1);
                  </tr>
                 </tbody>
                 </table>
-
+</div>
 
 <a href="#0"> back to table of contents</a>
 <h3>(click if you want to go to the table of contents)</h3>
+<h3>a link to buy the book:
+<a href="https://www.amazon.com/What-LEGO-Was-Jim-OConnor/dp/0593092945">
+click to buy</a>
+<h3> a link to get the book from KCLS:</h3>
+<a href="https://kcls.bibliocommons.com/item/show/2056555082">
+click to get from KCLS</a>
 </body>
 </html>
 
