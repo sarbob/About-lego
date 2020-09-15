@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>The Top 7 Video Games For Kids</title>
+<style>
+body{
+background-color:rgb(228, 225, 241);
+margin: 40px 200px 40px 200px;
+border:50px solid rgb(0,255,68);
+padding:20px;
+width:1000px;
+}
+.name-of-game{
+font-size: 25px;
+}
+li,.des-of-game{
+font-size: 20px;
+}
+a:visited{
+color:blue
+}
+img{
+border: 17px groove rgb(204, 204, 204);
+width:978px;
+}
+</style>
+</head>
+<body>
+<h1>The Top 7 Video Games For Kids</h1>
+<ol>
+<li class="name-of-game">Minecraft</li>
+<img src="https://cdn.vox-cdn.com/thumbor/rRKnaKI2aOEcjyS4kBJk6QatqpA=/150x0:1770x1080/1200x800/filters:focal(150x0:1770x1080)/cdn.vox-cdn.com/uploads/chorus_image/image/44362654/minecraft_steve.0.0.jpg" alt="Minecraft steve with buildings, animals, trees around him,and a diamond picaxe in his hand" >
+<p class="des-of-game">This is a puzzle-adventure game in which players mine pixelated landscapes to harvest stylized cube-like materials. From a first-person perspective, players traverse an “open-world” environment, avoid hazards, build new structures, and craft weapons (e.g., swords, axes, bows) to occasionally defend against monsters (e.g., zombies, wolves, skeletons, spiders). Though not encouraged, players can engage in violent acts such as lighting animals on fire and harming animals with weapons. Mild explosions are occasionally heard as players use dynamite to fend off creatures and mine the environment.There also is no blood. <strong>This game is rated 10+.</strong> <br> for more on how to play minecraft use the link: <br> <a href="http://www.minecraftopia.com/how_to_play_minecraft">click here</a></p>
+<li class="name-of-game">Asphalt 9: legends</li>
+<img src="https://www.levelwinner.com/wp-content/uploads/2018/03/asphalt-9-legends-800x350.jpg" alt="Bugatti Chiron, Mclaren F1,and Lambhorghini Aventador together under a bridge.>
+<p class="des-of-game"><span class="des-of-game">Legends features an extensive roster of real hypercars from renowned manufacturers such as Ferrari, Porsche, Lamborghini and W Motors. Pick your dream ride and race across spectacular locations around the world. Leave your friends in the dust and become a legend in your own group. Asphalt 9: Legends features an extensive roster of real hypercars from renowned manufacturers such as Ferrari, Porsche, Lamborghini and W Motors. <br><strong>This game is rated everyone</strong> <br> if you want some tips&tricks for this game then use the link:<br><a href=https://www.bluestacks.com/blog/game-guides/asphalt-9-legend-2018-new-concept-arcade-racing-game/asphalt9-tips-and-tricks-en.html">click here</a></span></p>
+<li name-of-game><span class="name-of-game">Human fall flat</span></li>
+<img src="https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_HumanFallFlat_image1600w.jpg" alt="a pic of human fall flat.">
+<p class="des-of-game">Human Fall Flat is a quirky, open-ended physics-based puzzle and exploration game set in floating dreamscapes. Your goal is to escape these surreal dreams by solving puzzles with nothing but your wits and physics.<br><strong>This game is rated everyone</strong> <br> if you want some tips&tricks for this game then use the link:<br><a href="https://play.google.com/store/apps/details?id=guide.appgame.HumanFall.Flat1fall2020&hl=en_US">click here</a> </p>
+<li class="name-of-game">Forza Horizon 4</li>
+<img src="https://cdnb.artstation.com/p/assets/images/images/012/882/367/large/rico-yupita-chiron-2.jpg?1536989817" alt="bugatti chiron driving in forza horizon 4">
+<p class="des-of-game">This is a racing simulation game in which players drive real-world cars at the fictional Horizon Festival in England, Wales, and Scotland. Players can earn Influence Points by completing events and challenges to unlock additional venues and activities.<br><strong>This game is rated everyone</strong> <br> if you want some tips&tricks for this game then use the link:<br><a href="https://www.ign.com/wikis/forza-horizon-4/Tips_and_Tricks">click here for link</a> </p>
+<li class="name-of-game">Roblox</li>
+<img src="https://venturebeat.com/wp-content/uploads/2019/04/roblox.jpg?w=1200&strip=all" alt="alot of roblox famous charachters">
+<p class="des-of-game">At its core, Roblox is an online platform that enables its millions of users to create and share their own 3D games and experiences using custom tools.
+Although likely to be too challenging for younger kids to master, Roblox Studio tools are easy for novices to learn. Most importantly, it provides a digital playground for kids who are interested in developing their own games. Roblox Studio’s controlled environment provides a non-threatening space in which to experiment, create, fail, try again, and ultimately succeed in developing a real game!The main purpose of Roblox is for kids to have fun, but there are other benefits. One of which is its ability to teach kids basic skills in coding, game design, and entrepreneurism. These skills are all transferable to real life, whether it’s a team project at school or extracurricular activities. Who knows, it may even inspire a career in STEM when they grow up! <br><strong>This game is rated 8+.</strong> <br>if you want some tips&tricks for this game then use the link:<br><a href="https://gazettereview.com/2016/03/roblox-tips-and-tricks/">click here</a></p>
+<li class="name-of-game">Subnautica</li>
+<img src="https://xblafans.com/wp-content/uploads/2015/12/Subnautica-for-Xbox-One.jpg" alt="image of subnautica">
+<p class="des-of-game"> This is an adventure game in which players assume the role of a survivor on an aquatic alien planet. From a first-person perspective, players explore an open-world environment, search for resources, and interact with the planet's aquatic wildlife and alien species. Some species may be hostile and can attack players and their submersibles. Players can ward off attacks by using knives and torpedoes. <br><strong>This game is rated teen.</strong> <br>if you want some tips for how to start out in subnautica, use the link:<br><a href="https://www.fandom.com/articles/subnautica-8-starting-tips">click here</a></p>
+<li class="name-of-game">fortnite</li>
+<img src="https://gearnuke.com/wp-content/uploads/2018/02/fornite-xbox-one-x-30-vs-60-comp-1-2.jpg" alt="image of fortnite">
+<p class="des-of-game"> This is an action game in which players build forts, gather resources, craft weapons, and battle hordes of monsters in frenetic combat. From a third-person perspective, players use guns, swords, and grenades to fight skeleton-like monsters (husks) in ranged and melee-style combat. Players can also defeat enemies by using various traps (e.g., electric, spikes, poisonous gas). Battles are highlighted by frequent gunfire, explosions, and cries of pain. <br><strong>This game is rated teen.</strong> <br>if you want some tips for how to start out in subnautica, use the link:<br><a href="https://www.fandom.com/articles/subnautica-8-starting-tips">click here</a></p>
+</ol>
+</body>
+</html>
