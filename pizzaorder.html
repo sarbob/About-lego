@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>Order Your Pizza</title>
+<style>
+body{
+background-color: rgb(192, 192, 192);
+background-image: url(https://www.kleinfeldbridal.com/wp-content/uploads/2019/05/pepperoni-pizza.jpg);
+font-weight:bold;
+position: relative;
+}
+#opt{
+height: 80px;
+color: blue;            	
+background-color:white;
+}
+#gluten{
+color: red;
+background-color: darkslategray;
+}
+#lavash{
+color: rgb(0,0,0);
+background-color: rgb(0,255,255);
+}
+#reg{
+color: blue;
+background-color: chocolate;
+}
+a:hover{
+color:blue;
+}
+#green{
+position:relative;
+top:50px;
+left:-72px;
+background-color:peachpuff;
+color:tomato;
+}
+#paneer{
+position:relative;
+top:50px;
+left:-185px;
+background-color:peachpuff;
+color:tomato;
+}
+#chickensausage{
+position:relative;
+top:100px;
+left:-296px;
+background-color:peachpuff;
+color:tomato;
+}
+#bolive{
+position:relative;
+top:150px;
+left:-470px;
+background-color:peachpuff;
+color:tomato;
+}
+#golive{
+position:relative;
+top:200px;
+left:-572px;
+background-color:peachpuff;
+color:tomato;
+}
+#mush{
+position:relative;
+top:250px;
+left:-676px;
+background-color:peachpuff;
+color:tomato;
+}
+#spin{
+position:relative;
+top:300px;
+left:-772px;
+background-color:peachpuff;
+color:tomato;
+}
+#chee{
+position:relative;
+top:350px;
+left:-827px;
+background-color:peachpuff;
+color:tomato;
+}
+#wonion{
+position:relative;
+top:400px;
+left:-956px;
+background-color:peachpuff;	
+color:tomato;
+}
+#suntom{
+position:relative;
+top:450px;
+left:-1064px;
+background-color:peachpuff;
+color:tomato;
+}
+#yellpepp{
+position:relative;
+top:500px;
+left:-1204px;
+background-color:peachpuff;
+color:tomato;
+}
+#tom{
+background-color:peachpuff;
+color:tomato;
+}
+.choose-topp{
+color:tomato;
+background-color:peachpuff;
+width:300px;
+border:10px groove khaki;
+}
+.whatyouname{
+border: 15px groove darkorange;
+background-color:honeydew;
+width:470px;
+width:325px;
+}
+img{
+height:90px;
+}
+.pizzabasewhat{
+border: 15px dotted azure;
+background-color:navajowhite;
+width:334px;
+}
+.whatusauce{
+border: 15px outset dodgerblue;
+width:400px;
+color:crimson;
+background-color:turquoise;	
+}
+.cheesewhat{
+color:white;
+background-color:black;
+position:relative;
+top:550px;
+border-width: 15px;
+border-color:aqua;
+border-style: dotted dashed groove double;
+width:325px;
+}
+#lichee{
+color:red;
+background-color:navajowhite;
+}
+#regchee{
+color:blue;	
+background-color:fuchsia;	
+}
+#exchee{
+color:sienna;
+background-color:darkkhaki;
+}
+.specialinstruct{
+position:relative;
+top:600px;
+color:darkorange;
+background-color:red;
+}
+#h1special{
+width:275px;
+}
+#specialspecify{
+font-style:Italic;
+position:relative;
+top:595px;
+}
+#hii,#hi,h1,h2{
+font-size:24px;
+}
+#heightprob{
+height:100px;
+width:200px;
+background-color:white;
+color:blue;
+}
+</style>
+</head>
+<body>
+<div class="whatyouname">
+<textarea id="opt" placeholder="insert your name"></textarea>
+<img src="https://www.insightcrime.org/images/2014/20141014_Mexico_Sinaloa_Magana.jpg">
+</div>
+        <br>
+           <br>
+           <br>
+<div class="pizzabasewhat">
+        <label id="hi">What Pizza base do you want?
+        <select>
+            <option id = "gluten">gluten-free crust</option>
+            <option id="lavash">lavash flatbread</option>
+            <option id="reg">regular crust</option>
+        </select>
+        </label><br>
+<img src="https://www.watchwhatueat.com/wp-content/uploads/2016/01/pizza-sauce-4.jpg">
+</div>
+<div class="whatusauce">
+<h2>Choose Your Sauce</h3>
+    <p> if you choose two sauces, your pizza will be half one sauce and half the other sauce</p>
+<form method="post">
+    <label><input type="checkbox" name="sauce[]"  >tomato</label>
+    <label><input type="checkbox" name="sauce[]">pesto</label>
+    <label><input type="checkbox" name="sauce[]" >barbecue</label>
+<label><input type="checkbox" name="sauce[]" >tikka</label>
+</form>
+</div>
+<h2 class="choose-topp" class="pizzabord">Choose Your Pizza Toppings</h3>
+<img class="choose-topp" src="https://simplebites.net/wp-content/uploads/2011/02/toppings.jpg">
+<form method="post" class="pizzabord" >
+    <label id="tom"><input type="checkbox"   name="topping[]">tomato</label>
+<label id="green"><input type="checkbox"   name="topping[]">green pepper</label>
+    <label id="paneer"><input type="checkbox" name="topping[]">panner tikka</label>
+<label id="chickensausage"><input type="checkbox"  name="topping[]">chicken apple sausage</label>
+<label id="bolive"><input type="checkbox" name="topping[]">black olives</label>
+<label id="golive"><input type="checkbox"  name="topping[]">red peppers</label>
+<label id="mush"><input type="checkbox"  name="topping[]">mushroom</label>
+<label id="spin"><input type="checkbox"  name="topping[]">basil</label>
+<label id="chee"><input type="checkbox" name="topping[]">orange peppers</label>
+<label id="wonion"><input type="checkbox" name="topping[]">white onions</label>
+<label id="suntom"><input type="checkbox"   name="topping[]">sun dried tomato</label>
+<label id="yellpepp"><input type="checkbox"   name="topping[]">yellow peppers</label> 
+</form>
+<div class="cheesewhat">
+        <label>How much cheese do you want?
+        <select>
+            <option id = "lichee">light</option>
+            <option id="regchee">regular</option>
+            <option id="exchee">extra/heavy</option>
+        </select>
+        </label><br>
+<img src="https://img4.mashed.com/img/gallery/mistakes-everyone-makes-when-making-nacho-cheese/youre-using-pre-shredded-cheese-1544049574.jpg">
+</div>
+<h1 id="h1special"  class="specialinstruct">Special instructions</h1>
+<h3 id="specialspecify">please put any allegies, recommendations, etc. (optional)</h3>
+<textarea class="specialinstruct" id="heightprob" placeholder="special insructions"></textarea> 
+<!--.toppingform{
+width: 52px;
+overflow-y: auto;
+overflow-x:hidden;
+font-size:17px;
+}
+.small{
+font-size:11px;
+}
+.medium{
+font-size:14px;
+}
+-->
+</body>
+</html>
